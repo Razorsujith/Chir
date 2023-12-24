@@ -1,0 +1,35 @@
+body {
+    background-color:#151522;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+  }
+  
+  body,
+  html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  svg{
+    width:100%;
+    height:100%;
+    visibility:hidden;
+   
+  }
+  h1{
+    text-align: center;
+    color: wheat;
+    padding-left: 30%;
+    width: 50%;
+    font-size: 50px;
+    margin-right: 20px;
+  }
+  
+  /*.sparkle{
+    /* mix-blend-mode:luminosity */
+  
